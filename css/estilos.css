@@ -1,0 +1,23 @@
+.contenedorPrincipal{
+
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+}
+
+
+.contenedorSecundario{
+    width: 50%;
+    height: 50%;
+    padding: 20px 40px 20px 40px;
+    border: 2px solid #590cf4;
+}
+
+form div{
+    margin-top: 1rem;
+}
+
+h1{
+    text-align: center;
+}
